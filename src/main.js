@@ -8,11 +8,11 @@ console.log(string1);
 
 // 3
 let number1 = 10;
-console.log(number1)
+console.log(number1);
 
 // 4
-let booleanVar = false
-console.log(booleanVar)
+let booleanVar = false;
+console.log(booleanVar);
 
 // 5
 //boolean operators: ==, ===, !=, !==, <, >, <=, >=, &&, ||, !, &, |, ^, typeof, instanceof, ?., ??.
